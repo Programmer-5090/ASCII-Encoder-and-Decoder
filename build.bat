@@ -1,7 +1,7 @@
 @echo off
-REM Build script for SDL2 Application
+REM Build script for ASCII Encoder and Decoder
 
-echo Building SDL2 Application...
+echo Building ASCII Encoder and Decoder...
 echo.
 
 REM Check if VCPKG_ROOT is set
@@ -53,8 +53,6 @@ echo ========================================
 echo Build completed successfully!
 echo ========================================
 echo.
-echo To run the application:
-echo   cd build\Release
-echo   sdl_app.exe
+echo Output files are written to the out/ directory.
 echo.
 pause

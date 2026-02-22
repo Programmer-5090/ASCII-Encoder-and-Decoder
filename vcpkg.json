@@ -1,5 +1,5 @@
 {
-  "name": "ascii-art-converter",
+  "name": "ascii-encoder-and-decoder",
   "version": "1.0.0",
   "dependencies": [
     "sdl3",

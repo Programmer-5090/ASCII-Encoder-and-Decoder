@@ -1,4 +1,4 @@
-# ASCII Art Converter
+# ASCII Encoder and Decoder
 
 Converts images and videos into coloured ASCII art, then renders and saves them as PNG, JPG, MP4, or GIF.
 
