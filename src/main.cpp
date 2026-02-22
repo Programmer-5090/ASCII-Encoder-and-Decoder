@@ -596,7 +596,7 @@ int main(int argc, char* argv[]) {
     }
     std::cerr << "Successfully decompressed " << asciiVid.size() << " frames\n";
 
-    // Create and save video
+    // Convert and save video
     saveASCIIVideo(asciiVid, fontPath, 10, outputPath + "_video.mp4", 17);
 
     TTF_Quit();
