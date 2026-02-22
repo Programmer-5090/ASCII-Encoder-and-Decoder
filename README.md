@@ -13,9 +13,9 @@ Converts images and videos into coloured ASCII art, then renders and saves them 
 A demo video showing the output of the converter can be found here:
 
 **Demo Video**
-
-<video src='readme\demo.mp4' width=720/>;
-
+<p float="center">
+  <video src='readme/demo.mp4' width=720/>
+</p>
 
 ### File Size Warning
 
