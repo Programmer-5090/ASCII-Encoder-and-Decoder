@@ -1,0 +1,10 @@
+{
+  "name": "ascii-art-converter",
+  "version": "1.0.0",
+  "dependencies": [
+    "sdl3",
+    "sdl3-image",
+    "sdl3-ttf",
+    "opencv"
+  ]
+}

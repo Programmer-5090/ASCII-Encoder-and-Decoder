@@ -1,0 +1,39 @@
+# Build output
+build/
+out/
+
+# Generated binary files
+*.bin
+*.exe
+
+# IDE / editor folders
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+CMakeSettings.json
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# vcpkg installed packages (restored automatically)
+vcpkg_installed/
+
+# Output images / videos produced at runtime
+out/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+
+# OS clutter
+Thumbs.db
+.DS_Store
